@@ -183,18 +183,18 @@ LCD Updates → System Ready for Next Vehicle
 
 | Component | Specification | Quantity | Estimated Cost |
 |-----------|---------------|----------|----------------|
-| **Arduino Uno/Nano** | ATmega328P, 5V, 16MHz | 1 | $8-25 |
-| **HC-SR04 Ultrasonic Sensor** | 2-400cm range, 5V | 2 | $4-6 |
-| **SG90 Servo Motor** | 180° rotation, 4.8-6V | 1 | $3-5 |
-| **16x2 LCD Display** | With I2C module (PCF8574) | 1 | $5-8 |
-| **LED (5mm)** | Red (625nm), Green (520nm) | 2 | $1-2 |
-| **Resistors** | 220Ω, 1/4W | 2-4 | $0.50 |
-| **Breadboard** | 830 tie-points | 1 | $3-5 |
-| **Jumper Wires** | Male-Male, Male-Female | 20+ | $2-3 |
-| **Power Supply** | 5V/2A adapter or USB | 1 | $5-8 |
-| **Gate Arm Material** | Cardboard/Acrylic/Wood | 1 | $2-5 |
+| **Arduino Uno/Nano** | ATmega328P, 5V, 16MHz | 1 | 340 |
+| **HC-SR04 Ultrasonic Sensor** | 2-400cm range, 5V | 2 | 240 |
+| **SG90 Servo Motor** | 180° rotation, 4.8-6V | 1 | 120 |
+| **16x2 LCD Display** | With I2C module (PCF8574) | 1 | 450 |
+| **LED (5mm)** | Red (625nm), Green (520nm) | 2 | 120 |
+| **Resistors** | 220Ω, 1/4W | 2-4 | 20 |
+| **Breadboard** | 830 tie-points | 1 | 230 |
+| **Jumper Wires** | Male-Male, Male-Female | 20+ | 280 |
+| **Power Supply** | 5V/2A adapter or USB | 1 | 178 |
+| **Gate Arm Material** | Cardboard/Acrylic/Wood | 1 | 600 |
 
-**Total Estimated Cost: $33-67 USD**
+**Total Estimated Cost: $2298 ruppes**
 
 ### Optional Components
 
@@ -208,8 +208,6 @@ LCD Updates → System Ready for Next Vehicle
 | **IR Sensor** | Backup detection | 150 |
 | **RFID Module (RC522)** | Access control | 450 |
 | **PIR Motion Sensor** | Additional detection | 280 |
-| **Bread Borad** | Wire connection | 120 |
-| **Arduno uno** | Cental control system | 340 |
 
 ### Detailed Component Specifications
 
